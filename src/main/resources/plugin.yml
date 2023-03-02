@@ -1,0 +1,8 @@
+name: Bed
+version: '${project.version}'
+main: me.hephaestus2023.bed.Bed
+api-version: 1.18
+commands:
+  murder:
+    description: murders someone
+    usage: /<command>
